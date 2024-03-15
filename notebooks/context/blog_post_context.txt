@@ -1,0 +1,1 @@
+Add additional context for blog posts here. This can be another blog post to reference, research data, and more. it can be passed to the openai or anthrpic as additional context.
